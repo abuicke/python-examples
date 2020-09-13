@@ -1,0 +1,2 @@
+# This will start a http server from the director you are currently in.
+~$ python -m http.server
